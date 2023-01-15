@@ -1,5 +1,14 @@
-# Car and Ford F150 Analysis
+# Data modeling and Data Visualization of car_prices.csv dataset
 
-Data Analysis and Data visualization of dataset(car_prices.csv) and where to best buy Ford-F150.
+1. Pairplot - for the relationships between the numeric variables in the dataset
+2. Heatmap - for the correlation between the numeric variables
+3. Lmplot - build a linear relationship plot comparing odometer vs. selling price
+4. Barplot - for the average price by condition
+5. Heatmap - correlation of make and conditions of 10 most common car brands in their average selling price
 
-## Please see notebook for Data Analysis Process
+## Ford F150 Analysis
+
+1. Histogram - for the selling price of Ford F150
+2. Barplot - for the trim vs. selling price
+3. Barplot - for the difference selling price to mmr by color
+4. Subplot - for state vs. to the mean mmr and auto count
